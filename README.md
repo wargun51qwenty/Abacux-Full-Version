@@ -238,4 +238,4 @@ This repository serves as the official landing page for Abacux. The software is 
 **Get the most recent version of Abacux today!**
 
 ---
-**Last updated:** 2026-10-03 23:24:07 UTC
+**Last updated:** 2026-10-04 02:58:02 UTC
